@@ -1,0 +1,15 @@
+G:\Test\TestKST\TestKST\TestKST\obj\Debug\netcoreapp3.1\TestKST.csprojAssemblyReference.cache
+G:\Test\TestKST\TestKST\TestKST\obj\Debug\netcoreapp3.1\TestKST.Form1.resources
+G:\Test\TestKST\TestKST\TestKST\obj\Debug\netcoreapp3.1\TestKST.csproj.GenerateResource.cache
+G:\Test\TestKST\TestKST\TestKST\obj\Debug\netcoreapp3.1\TestKST.AssemblyInfoInputs.cache
+G:\Test\TestKST\TestKST\TestKST\obj\Debug\netcoreapp3.1\TestKST.AssemblyInfo.cs
+G:\Test\TestKST\TestKST\TestKST\obj\Debug\netcoreapp3.1\TestKST.csproj.CoreCompileInputs.cache
+G:\Test\TestKST\TestKST\TestKST\bin\Debug\netcoreapp3.1\TestKST.exe
+G:\Test\TestKST\TestKST\TestKST\bin\Debug\netcoreapp3.1\TestKST.deps.json
+G:\Test\TestKST\TestKST\TestKST\bin\Debug\netcoreapp3.1\TestKST.runtimeconfig.json
+G:\Test\TestKST\TestKST\TestKST\bin\Debug\netcoreapp3.1\TestKST.runtimeconfig.dev.json
+G:\Test\TestKST\TestKST\TestKST\bin\Debug\netcoreapp3.1\TestKST.dll
+G:\Test\TestKST\TestKST\TestKST\bin\Debug\netcoreapp3.1\TestKST.pdb
+G:\Test\TestKST\TestKST\TestKST\obj\Debug\netcoreapp3.1\TestKST.dll
+G:\Test\TestKST\TestKST\TestKST\obj\Debug\netcoreapp3.1\TestKST.pdb
+G:\Test\TestKST\TestKST\TestKST\obj\Debug\netcoreapp3.1\TestKST.genruntimeconfig.cache

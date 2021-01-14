@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestKST", "TestKST\TestKST.csproj", "{5B769DCF-6A60-4C6F-A679-3651D283872B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B769DCF-6A60-4C6F-A679-3651D283872B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B769DCF-6A60-4C6F-A679-3651D283872B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B769DCF-6A60-4C6F-A679-3651D283872B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B769DCF-6A60-4C6F-A679-3651D283872B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD08A5E3-9B4A-4533-ABC4-82B0D27A7A76}
+	EndGlobalSection
+EndGlobal
